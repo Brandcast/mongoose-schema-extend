@@ -26,7 +26,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "owl-deepcopy": "gtelljohann/owl-deepcopy#8b31fa5"
+    "owl-deepcopy": "0.0.5"
   },
   "devDependencies": {
     "mocha": "~1.3.2",
