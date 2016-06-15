@@ -26,7 +26,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "owl-deepcopy": "~0.0.1"
+    "owl-deepcopy": "Brandcast/mongoose-schema-extend#5b24ab0"
   },
   "devDependencies": {
     "mocha": "~1.3.2",
