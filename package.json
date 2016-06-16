@@ -1,6 +1,6 @@
 {
   "name": "mongoose-schema-extend",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "mongoose schema inheritance and discriminator key extension",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "owl-deepcopy": "0.0.5"
+    "owl-deepcopy": "0.0.6"
   },
   "devDependencies": {
     "mocha": "~1.3.2",
